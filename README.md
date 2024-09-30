@@ -10,4 +10,8 @@
 > > error!
 <hr/>
 qwer
+<<<<<<< HEAD
 hihi
+=======
+test_branch_hi!
+>>>>>>> test
