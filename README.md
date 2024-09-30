@@ -12,4 +12,4 @@
 qwer
 hihi
 test_branch : test
-main_branch : main
+main_branch : hi
