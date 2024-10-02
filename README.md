@@ -16,4 +16,4 @@ main_branch : hi
 
 Link : [Google][googlelink]
 
-[goglelink] : https://google.com
+[googlelink] : https://google.com
