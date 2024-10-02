@@ -14,5 +14,5 @@ hihi
 test_branch : test
 main_branch : hi
 
-Link : [Google][googlelink]
+Link : [Google][googlelink]\n
 [goglelink] : https://google.com
